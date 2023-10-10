@@ -7,6 +7,16 @@ te prender injustamente, então desvie deles. Mas por que só desviar
 se você marcar uns pontos dando uns tiros de borracha nos corruptos?
 ![image](https://github.com/kjohnm/rejoscape/assets/101677572/e2a30443-46c1-4d05-8e5f-3707f8490f88)
 
+Como podemos ver o Playfield é composto pelo Jogador, pelos Policiais corruptos que
+passam insistentemente tentando te capturar, pelo placar de balas de borracha acertadas, 
+placar do canto superior esquerdo, e pelo timer(temporizador), que serve pra saber também
+quantos corruptos já passaram tentando te capturar. Chegue a maior pontuação possível
+
+MAS CUIDADO... Se um policial te tocar você perderá seu progresso e você perderá todos seus pontinhos
+conquistados... Até quantos pontos você consegue ir? consegue zerar o contador? veremos...
+![image](https://github.com/kjohnm/rejoscape/assets/101677572/1f96db19-819b-4a09-a9ce-1dedcd4be51a)
+
+
 >>>>> Controladores do jogo <<<<<
 
 Direcionais(setas do teclado): controla o movimento do jogador.
