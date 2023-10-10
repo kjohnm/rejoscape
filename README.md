@@ -1,6 +1,24 @@
 # GTScape
 Projetando um jogo para Atari 2600.
 
+Link para a gravação: https://drive.google.com/file/d/1bDU3LC2r-a-uQxYnzw6YB1sxTlLtJ8fm/view?usp=sharing
+
+-------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>>>>> COMO JOGAR?
+>>>>> Opção 1:
+>>> Caso já tenha o emulador Stella instalado, é so fazer o download do arquivo "gtscape.bin",
+>>> abrir o emulador stella, ir ate a pasta onde o arquivo "gtscape.bin" foi salvo e dar 2 cliques,
+>>> ou apenas clique e enter
+
+>>>>> Opção 2:
+>>> Faz o download do arquivo "gtscape.bin", passo igual ao inicio da opção 1, em seguida
+>>> abre o site 'Javatari', usando o link disponilizado mais abaixo. la no site vai na opção
+>>> "Open ROM file", em seguida vai ate o diretório em que o "gtscape.bin" foi salvo, e o seleciona
+>>> e pronto, você estará jogando e disparando balas de borracha nos corruptos.
+>>>>>>>>>>>>>>>> -------------------------------------------------------------------------------
+
+
+
 O jogo tem uma proposta simples e divertida. Inspirado nas fugas do 
 GTA, em GTScape você tem que fugir dos policiais corruptos que querem
 te prender injustamente, então desvie deles. Mas por que só desviar
