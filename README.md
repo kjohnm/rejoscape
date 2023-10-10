@@ -33,7 +33,7 @@ https://dasm-assembler.github.io/
 
 Ele conta com um diferencial, pois além de emular é 
 possível usado para depurar e entender o funcionamento
-do código do seu jogo (p/ isso basta apertar > ctrl + " <)
+do código do seu jogo (p/ isso basta apertar > ' < (aspas simples)
 
 https://stella-emu.github.io/downloads.html
 
