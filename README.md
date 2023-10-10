@@ -3,8 +3,8 @@ Projetando um jogo para Atari 2600.
 
 Link para a gravação: https://drive.google.com/file/d/1bDU3LC2r-a-uQxYnzw6YB1sxTlLtJ8fm/view?usp=sharing
 
--------------------------------------------------------------------------------------------------
->>>>> COMO JOGAR???
+-------------------------------- COMO JOGAR??? --------------------------------------------------
+
 
 >>>>> Opção 1:
 >>> Caso já tenha o emulador Stella instalado, é so fazer o download do arquivo "gtscape.bin",
