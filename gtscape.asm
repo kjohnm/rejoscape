@@ -5,7 +5,7 @@
     include "vcs.h"
     include "macro.h"
 
-;; Declaração das var no endereço $80
+;; Declaração das var  (memódia do end. $80 a $FF)
 
     seg.u Variables
     org $80
