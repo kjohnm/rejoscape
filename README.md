@@ -37,8 +37,8 @@ http://www.6502.org/tutorials/6502opcodes.html
 
 PlayerPal2 - Ferramenta para criação e testes de sprites.
 Nele você pode testar e até gerar código de criação e coloração
-dos seus sprites. 
-
+dos seus sprites.
+![image](https://github.com/kjohnm/rejoscape/assets/101677572/3464a994-94c4-4b61-8f98-337cd15fbe8e)
 https://alienbill.com/2600/playerpalnext.html
 
 VSCode - Dispensa comentários.
