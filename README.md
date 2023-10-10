@@ -15,8 +15,8 @@ Link para a gravação: https://drive.google.com/file/d/1bDU3LC2r-a-uQxYnzw6YB1s
 >>> abre o site 'Javatari', usando o link disponilizado mais abaixo. la no site vai na opção
 >>> "Open ROM file", em seguida vai ate o diretório em que o "gtscape.bin" foi salvo, e o seleciona
 >>> e pronto, você estará jogando e disparando balas de borracha nos corruptos.
->>>>>>>>>>>>>>>> -------------------------------------------------------------------------------
-
+>>>>>> -----------------------------------------------------------------------------------------
+>>>
 
 
 O jogo tem uma proposta simples e divertida. Inspirado nas fugas do 
