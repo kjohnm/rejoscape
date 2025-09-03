@@ -1,7 +1,7 @@
 # GTScape
 Projetando um jogo para Atari 2600.
 
-Link para a gravação: https://drive.google.com/file/d/1bDU3LC2r-a-uQxYnzw6YB1sxTlLtJ8fm/view?usp=sharing
+## Projeto desenvolvido durante a reta final de uma das disciplinas da graduação
 
 -------------------------------- COMO JOGAR??? --------------------------------------------------
 
